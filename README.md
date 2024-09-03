@@ -1,5 +1,4 @@
-# insight_face
-
+# Synthetic Media Generation - DeepFakes
 
 ### Installation
 
@@ -18,7 +17,7 @@
 - Results from running all files will need minium of 2 faces in the image to run and replaces all faces with the image of the 2nd face recognized in the file
 
 # Input
-  ![App Screenshot](./assets/superbad.png)
+  ![App Screenshot](./assets/superBad.png)
 
 # Results
   ![App Screenshot](./assets/output.png)
